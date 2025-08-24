@@ -25,9 +25,9 @@
 <h3>Instalação:</h3>
 
 1. Clone o repositório em sua máquina local:
-   
+   `git clone https://github.com/Kha01s/challenge_amigo_secreto.git`
 2. Navegue até o projeto:
-   
+   `cd challenge_amigo_secreto`
 3. Abra no seu navegador de preferência o arquivo `index.html` para utilizar a aplicação
 
 <h2>:hammer_and_wrench: Desenvolvido com</h2>
